@@ -1,0 +1,1 @@
+// shows doctor qualifications and credentials 
